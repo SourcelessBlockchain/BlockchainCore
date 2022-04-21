@@ -1,0 +1,55 @@
+/CODEOWNERS @AlexandruStratulat
+/buildkite @SourcelessBlockchain/infra-eng-reviewers
+/frontend/ @SourcelessBlockchain/product-eng-reviewers
+/dockerfiles/ @SourcelessBlockchain/infra-eng-reviewers
+/scripts/ @SourcelessBlockchain/infra-eng-reviewers @SourcelessBlockchain/protocol-eng-reviewers
+/Makefile @SourcelessBlockchain/infra-eng-reviewers
+/src/config/dev.mlh @SourcelessBlockchain/infra-eng-reviewers @SourcelessBlockchain/protocol-eng-reviewers
+/src/config/ @SourcelessBlockchain/infra-eng-reviewers @SourcelessBlockchain/protocol-eng-reviewers
+/CODE_OF_CONDUCT.md @str.alex
+/CONTRIBUTING.md @SourcelessBlockchain/product-eng-reviewers
+/LICENSE @AlexandruStratulat
+/README.md @SourcelessBlockchain/product-eng-reviewers
+/README-dev.md @SourcelessBlockchain/protocol-eng-reviewers
+
+/src/external/ @AlexandruStratulat
+/src/app/archive @SourcelessBlockchain/product-eng-reviewers
+/src/app/cli/src/tests @SourcelessBlockchain/protocol-eng-reviewers
+/src/app/cli/src/mina.ml @SourcelessBlockchain/protocol-eng-reviewers
+/src/app/cli/src/init @SourcelessBlockchain/protocol-eng-reviewers
+/src/app/libp2p_helper @SourcelessBlockchain/protocol-eng-reviewers
+/src/app/reformat/ @SourcelessBlockchain/infra-eng-reviewers
+/src/app/trace-tool/ @SourcelessBlockchain/protocol-eng-reviewers
+/src/app/runtime_genesis_ledger/ @SourcelessBlockchain/protocol-eng-reviewers
+/src/app/archive_blocks/ @SourcelessBlockchain/protocol-eng-reviewers
+/src/app/extract_blocks/ @SourcelessBlockchain/protocol-eng-reviewers
+/src/app/patch_archive_test/ @SourcelessBlockchain/protocol-eng-reviewers
+
+/src/lib/ @SourcelessBlockchain/protocol-eng-reviewers
+
+/src/lib/blake2/ @SourcelessBlockchain/crypto-eng-reviewers
+/src/lib/cli_lib/ @SourcelessBlockchain/product-eng-reviewers
+/src/lib/mina_commands @SourcelessBlockchain/product-eng-reviewers
+/src/lib/mina_graphql @SourcelessBlockchain/product-eng-reviewers
+/src/lib/mina_numbers/ @SourcelessBlockchain/crypto-eng-reviewers
+/src/lib/crs/ @SourcelessBlockchain/crypto-eng-reviewers
+/src/lib/crypto_params/ @SourcelessBlockchain/crypto-eng-reviewers
+/src/lib/dummy_values/ @SourcelessBlockchain/crypto-eng-reviewers
+/src/lib/hash_prefixes/ @SourcelessBlockchain/crypto-eng-reviewers
+/src/lib/non_zero_curve_point/ @SourcelessBlockchain/crypto-eng-reviewers
+/src/lib/outside_hash_image/ @SourcelessBlockchain/crypto-eng-reviewers
+/src/lib/pokolog/ @SourcelessBlockchain/crypto-eng-reviewers
+/src/lib/precomputed_values/ @SourcelessBlockchain/crypto-eng-reviewers
+/src/lib/sha256_lib/ @SourcelessBlockchain/crypto-eng-reviewers
+/src/lib/signature_lib/ @SourcelessBlockchain/crypto-eng-reviewers
+/src/lib/snark_keys/ @SourcelessBlockchain/crypto-eng-reviewers
+/src/lib/snarky/ @SourcelessBlockchain/crypto-eng-reviewers
+/src/lib/snarky_blake2/ @SourcelessBlockchain/crypto-eng-reviewers
+/src/lib/snarky_curves/ @SourcelessBlockchain/crypto-eng-reviewers
+/src/lib/snarky_field_extensions/ @SourcelessBlockchain/crypto-eng-reviewers
+/src/lib/snarky_group_map/ @SourcelessBlockchain/crypto-eng-reviewers
+/src/lib/snarky_log/ @SourcelessBlockchain/crypto-eng-reviewers
+/src/lib/snarky_pairing/ @SourcelessBlockchain/crypto-eng-reviewers
+/src/lib/unsigned_extended/ @SourcelessBlockchain/crypto-eng-reviewers
+
+/src/nonconsensus @SourcelessBlockchain/protocol-eng-reviewers
